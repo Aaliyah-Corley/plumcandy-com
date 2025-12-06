@@ -15,36 +15,49 @@
         Is it really a betrayal if you should have seen it coming? You can’t
         think about that now.
     </p>
+
     <p>
         Darkness presses in, heavy, sapping — but not the kind of dark to hide
         in. You don’t see anyone, but are you alone? No.
     </p>
+
     <p>
         Your body knows before the mind. Hair stands up — a million nerve
         extenders seek out danger. The crawling sensation up your spine snaps a
         whip: <em>glance behind</em>.
     </p>
+
     <p>Freeze. Hold that noisy breath. Listen.</p>
+
     <p>
         You hear nothing. Nothing out of the ordinary. Not yet. How can it be so
         quiet and loud at the same time? It’s the heightened sense that both the
         hunted and the hunter share — that they’ve had to share since before
         time had a name. Pure survival.
     </p>
+
     <p>Before the fall it was all so simple.</p>
+
     <p>
         Now? Some people have their heart ripped out, others have their heart
         ripped out.
     </p>
+
     <p>
         That’s the tightening in your chest, the sinking sensation. The dreaded
         void.
     </p>
+
     <p>Will you run? Will you fight? Will you decide before it’s too late?</p>
+
     <p>All an illusion. There’s no real choice.</p>
+
     <p>It only feels like time is standing still. It is not.</p>
+
     <p>You’re gonna run. Go! GO!</p>
+
     <p>…</p>
+
     <p>All quiet now.</p>
 
     <hr />
@@ -125,7 +138,9 @@
 
     <p>The attendant nodded a greeting. “Good afternoon, sir. Fill ’er up?”</p>
 
-    <p>The sign above the pump read ‘<em>REGULAR 27¢/GAL</em>’</p>
+    <p>
+        The sign above the pump read ‘<em>REGULAR 27¢/GAL</em>’
+    </p>
 
     <p>Noelan replied with a swagger, “Thanks kid. I’ll square up inside.”</p>
 
@@ -167,7 +182,9 @@
         him.
     </p>
 
-    <p>His hand, though shaky, <em>did</em> brandish a revolver.</p>
+    <p>
+        His hand, though shaky, <em>did</em> brandish a revolver.
+    </p>
 
     <p>“Hands up! Money in the bag, now!” the man yelled.</p>
 
@@ -249,7 +266,7 @@
     <p>Noelan didn’t reply.</p>
 
     <p>
-        Lawson sighed and looks ahead. “We are headed to see Chief Travis
+        Lawson sighed and looked ahead. “We are headed to see Chief Travis
         anyway. I guess we could drop off some trash while we were there.”
     </p>
 
@@ -479,8 +496,8 @@
     </p>
 
     <p>
-        “Get serious,” Lawson said. “You really think we’d let you go rob
-        someone else?”
+        “Wise up,” Lawson said. “You really think we’d let you go rob someone
+        else?”
     </p>
 
     <p>Noelan scoffed. “Not a chance, jackass.”</p>
@@ -497,21 +514,18 @@
     <p>
         “Where does your broad live?” Noelan said slowly, enunciating every
         word, like he was talking to a slow child, or a sputtering suspect.
-        “We’re going to help out with your... about-to-be-kidnapped-princess
-        problem.”
+        “We’ll head there now. Protect your little princess.”
     </p>
 
     <p>
         Bennet opened his mouth to spit out some excuse, but the words got
-        somehow stuck when he caught Noelan’s glare. There was something in
-        those eyes — the confidence, the danger — that made Bennet recall how
-        effortlessly he’d been subdued. Suddenly, the idea of a stranger helping
-        didn’t seem so far-fetched.
+        somehow stuck when he caught Noelan’s glare. He slumped back in his
+        seat, suddenly corporative.
     </p>
 
     <p>
-        He slumped back in his seat, “Hang a left up past them elk, over there.”
-        Despite the chill, sweat was beading Bennet’s brow.
+        “Hang a left up past them elk, over there.” Despite the chill, sweat was
+        beading Bennet’s brow.
     </p>
 
     <div class="footer-nav">
