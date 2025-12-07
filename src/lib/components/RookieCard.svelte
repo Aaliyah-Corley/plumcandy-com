@@ -129,7 +129,7 @@
     book, have you read it?”
   </p>
 
-  <p>But if it becomes the next canon and you passed?</p>
+  <p>But if it becomes canon and you passed?</p>
 
   <p>Well, then you passed on Uber <em>and</em> you hate kids.</p>
 
